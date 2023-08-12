@@ -1,0 +1,27 @@
+ *{
+    padding : 3px
+ }
+ div{
+    display : block
+    
+ }
+
+.description{
+    padding: 15px;
+    border: 1px solid black;
+}
+
+
+img{
+    height: 319px;
+    width: 496px;
+    padding : 5px 5px
+}
+
+ol{
+    margin-left: 15px;
+}
+
+li{
+    margin: 3px;
+}
